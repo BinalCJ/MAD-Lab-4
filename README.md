@@ -1,2 +1,2 @@
-# MAD-Lab-4
+# VCS handle
 Android Studio connect to Git
